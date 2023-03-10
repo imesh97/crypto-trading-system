@@ -17,7 +17,7 @@ To run this project, it must be imported and compiled in Eclipse IDE.
 * Right-click the file and select `Run As > Java Application`. A Java application window should open.
 
 ## Login
-The text file **login_db.txt** located at `cryptoTrader\src\main\java\cryptoTrader\login_db.txt` contains the combination of usernames and passwords accepted by the system.
+The text file **login_db.txt** located at `cryptoTrader\login_db.txt` contains the combination of usernames and passwords accepted by the system.
 To login, use the following sample combination:
 * **Username:** admin
 * **Password:** pass
