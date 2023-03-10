@@ -13,11 +13,11 @@ This project aims to implement a system that performs and manages trading strate
 To run this project, it must be imported and compiled in Eclipse IDE.
 * Import the project by selecting `Import > Existing Maven Projects`
 * Select the `cryptoTrader\` directory to import, ensuring the `pom.xml` file is detected.
-* Locate the file **LoginUI.java** located at `CS-2212-Trader\cryptoTrader\src\main\java\cryptoTrader\gui\LoginUI.java`
+* Locate the file **LoginUI.java** located at `cryptoTrader\src\main\java\cryptoTrader\gui\LoginUI.java`
 * Right-click the file and select `Run As > Java Application`. A Java application window should open.
 
 ## Login
-The text file **login_db.txt** located at `CS-2212-Trader\cryptoTrader\src\main\java\cryptoTrader\login_db.txt` contains the combination of usernames and passwords accepted by the system.
+The text file **login_db.txt** located at `cryptoTrader\src\main\java\cryptoTrader\login_db.txt` contains the combination of usernames and passwords accepted by the system.
 To login, use the following sample combination:
 * **Username:** admin
 * **Password:** pass
